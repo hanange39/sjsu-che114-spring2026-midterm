@@ -1,6 +1,6 @@
 # Data-Driven Prediction of Lithium-ion Battery Degradation from Partial Cycling Data Using Machine Learning
 
-Study the degradation of an 18650 lithium-ion battery (NMC811/graphite-silicon) over 400 cycles and compare two machine learning models to determine which best predicts maximum discharge capacity.
+Objective: Study the degradation of an 18650 lithium-ion battery (NMC811/graphite-silicon) over 400 cycles and compare two machine learning models to determine which best predicts maximum discharge capacity.
 
 ## Course Context
 * **Course:** CHE114: Data Science in Chemical and Materials Engineering
